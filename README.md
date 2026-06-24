@@ -13,7 +13,15 @@ Machine Learning project that predicts house prices using the California Housing
 - Random Forest Regression
 
 ## Results
-Random Forest achieved higher R² score than Linear Regression.
+Model: Random Forest Regressor
+
+R² Score: 0.81
+
+Dataset:
+California Housing Dataset
+
+Technologies:
+Python, Pandas, NumPy, Scikit-Learn
 
 ## Files
 - House_Price_Prediction.ipynb
